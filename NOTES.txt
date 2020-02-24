@@ -1,0 +1,4 @@
+https://app.pluralsight.com/course-player?clipId=c2576f55-3761-4cf3-9b52-fdf973683848
+
+Pickup at Accessing Data > Modifying the Controller to Retrieve Data.
+I'm getting an error.  Finishign this section of the module might fix it.
